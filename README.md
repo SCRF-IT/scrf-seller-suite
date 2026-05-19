@@ -1,7 +1,7 @@
 # SCRF // Seller Suite
 
 > AI-powered reseller workstation for collectibles flippers.  
-> Pricing intelligence, eBay listings, and social copy — one click.
+> Pricing intelligence, eBay listings, and social copy, one click.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Powered%20by-Claude%20AI-blueviolet?style=flat-square)
@@ -12,7 +12,7 @@
 
 ## What It Does
 
-You find an item. You drop it in. Claude tells you whether to flip it, what to charge, and writes every word you need to sell it — listing title, full description, and platform-specific social copy for Instagram, TikTok, Facebook, Twitter/X, and your Skip blog.
+You find an item. You drop it in. Claude tells you whether to flip it, what to charge, and writes every word you need to sell it: listing title, full description, and platform-specific social copy for Instagram, TikTok, Facebook, Twitter/X, and your Skip blog.
 
 No subscriptions. No web app. Runs on your machine.
 
