@@ -31,9 +31,9 @@ No subscriptions. No web app. Runs on your machine.
 
 ## Built For
 
-[Starchild Rare Finds (SCRF)](https://helloskip.com) — a DFW-based collectibles resale business specializing in Pokémon cards, Yu-Gi-Oh, vinyl records, VHS, retro gaming, antiques, and general collectibles.
+[Starchild Rare Finds] — a DFW-based collectibles resale business specializing in Pokémon cards, Yu-Gi-Oh, vinyl records, VHS, retro gaming, antiques, and general collectibles.
 
-Developed by **[Fairy Circle Garden (FCG)](https://fairycirclegarden.com)** — an SDVOSB small business building open-source AI tooling for independent operators.
+Developed by **[Starchild Rare Finds.]
 
 ---
 
@@ -93,4 +93,4 @@ MIT — free to use, fork, and adapt. Attribution appreciated.
 
 ---
 
-*Built with Python + Claude by [Fairy Circle Garden](https://fairycirclegarden.com) for [Starchild Rare Finds](https://helloskip.com).*
+*Built with Python + Claude by [Starchild Rare Finds]*
